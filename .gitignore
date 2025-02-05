@@ -169,3 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# DeepEval
+docs/.deepeval-cache.json
+docs/.deepeval_telemetry.txt
+
